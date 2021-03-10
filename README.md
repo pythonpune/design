@@ -1,10 +1,6 @@
-# Python Pune Design
+# PythonPune Design
 
-This repository records task and engagements for the Python Pune Design.
-
-## Future Plans
-
-- Create Python Pune landing page
+This repository keep record of tasks and engagements for the PythonPune Design.
 
 If you have any ideas, feel free to open ticket with detailed
 description. Your suggestion, feedbacks are helpful. If you wish to
