@@ -13,8 +13,8 @@
    viewBox="0 0 508 285.75"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="welcome_banner.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="banners.svg"
    inkscape:export-filename="/home/akgaikwad/design/Python_Pune/banners/welcome_banner.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -170,18 +170,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="1925.3127"
-     inkscape:cy="809.57814"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="3578.9208"
+     inkscape:cy="592.36089"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -356,7 +356,7 @@
              x="81.683594"
              y="20.426951"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;text-anchor:start">Follow us on Twitter: </tspan><tspan
-               style="fill:#306998;fill-opacity:1">twitter.com/PythonPune</tspan></tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';fill:#306998;fill-opacity:1">twitter.com/PythonPune</tspan></tspan></text>
         <path
            fill="currentColor"
            d="m 671.38487,70.58449 c 0.012,0.167339 0.012,0.334714 0.012,0.502051 0,5.104022 -3.8848,10.985055 -10.98506,10.985055 -2.18746,0 -4.2195,-0.633553 -5.92883,-1.733205 0.3108,0.03584 0.6096,0.0478 0.93235,0.0478 1.80491,0 3.46645,-0.609598 4.79327,-1.649535 -1.69737,-0.03588 -3.11982,-1.147523 -3.60991,-2.677552 0.23908,0.03584 0.47814,0.05975 0.72918,0.05975 0.34663,0 0.69331,-0.04783 1.01602,-0.131464 -1.76908,-0.358628 -3.09593,-1.912536 -3.09593,-3.789199 v -0.0478 c 0.51397,0.286881 1.11167,0.466176 1.74516,0.490056 -1.03994,-0.693304 -1.72125,-1.876664 -1.72125,-3.21544 0,-0.717182 0.19121,-1.374612 0.52593,-1.948373 1.90058,2.34284 4.75742,3.872832 7.96087,4.040206 -0.0597,-0.28688 -0.0956,-0.585682 -0.0956,-0.884521 0,-2.127706 1.72128,-3.86091 3.8609,-3.86091 1.11165,0 2.11572,0.466176 2.82098,1.219233 0.87256,-0.167338 1.70929,-0.490093 2.45042,-0.932353 -0.28691,0.896516 -0.89652,1.649573 -1.69736,2.12767 0.77697,-0.08364 1.53003,-0.298838 2.22329,-0.597641 -0.52585,0.764979 -1.18332,1.446288 -1.93638,1.99617 z"
@@ -384,7 +384,7 @@
              x="81.683594"
              y="20.426951"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;text-anchor:start">Join the mailing list: </tspan><tspan
-               style="fill:#306998;fill-opacity:1">groups.google.com/g/pythonpune</tspan></tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';fill:#306998;fill-opacity:1">groups.google.com/g/pythonpune</tspan></tspan></text>
         <path
            fill="currentColor"
            d="m 671.52826,120.19177 c 0.12782,-0.10161 0.31793,-0.007 0.31793,0.15405 v 6.70289 c 0,0.8686 -0.70471,1.5733 -1.5733,1.5733 h -13.63522 c -0.8686,0 -1.5733,-0.7047 -1.5733,-1.5733 v -6.69961 c 0,-0.16388 0.18683,-0.25565 0.31793,-0.15405 0.73421,0.57032 1.70769,1.29469 5.05094,3.72348 0.6916,0.50475 1.85846,1.56673 3.02204,1.56017 1.17015,0.01 2.35994,-1.07508 3.02532,-1.56017 3.34325,-2.42879 4.31345,-3.15644 5.04766,-3.72676 z m -8.07298,4.23479 c 0.76043,0.0132 1.85518,-0.95709 2.40583,-1.35697 4.34952,-3.15641 4.68055,-3.43175 5.68353,-4.2184 0.19012,-0.1475 0.30155,-0.37692 0.30155,-0.61948 v -0.62276 c 0,-0.8686 -0.70471,-1.5733 -1.5733,-1.5733 h -13.63522 c -0.8686,0 -1.5733,0.7047 -1.5733,1.5733 v 0.62276 c 0,0.24256 0.11145,0.46871 0.30155,0.61948 1.00298,0.78338 1.33403,1.06199 5.68354,4.2184 0.55065,0.39988 1.64539,1.37008 2.40582,1.35697 z"
@@ -401,15 +401,15 @@
          xml:space="preserve"
          id="text1415"
          style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1421);fill:#306998;fill-opacity:1;stroke:none;"
-         transform="translate(541.4286,133.18198)"
+         transform="translate(536.22381,133.18198)"
          x="6.4403257"
          y="0"
          inkscape:export-xdpi="95.064056"
          inkscape:export-ydpi="95.064056"><tspan
-           x="141.19465"
+           x="118.24165"
            y="20.426951"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Join us on Freenode IRC:  </tspan><tspan
-             style="fill:#306998;fill-opacity:1">#pythonpune</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">        Join us on Libera.Chat IRC:  </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';fill:#306998;fill-opacity:1">#pythonpune</tspan></tspan></text>
       <path
          fill="currentColor"
          d="m 667.92563,145.2836 c 0,-2.80178 -2.95074,-5.07109 -6.59243,-5.07109 -3.64167,0 -6.59241,2.26931 -6.59241,5.07109 0,1.08711 0.44689,2.08866 1.20439,2.91588 -0.42471,0.95716 -1.12516,1.71782 -1.13466,1.72734 -0.0698,0.0729 -0.0888,0.18065 -0.0475,0.27573 0.0412,0.0951 0.12994,0.15214 0.23136,0.15214 1.16002,0 2.12036,-0.38983 2.8113,-0.79235 1.02054,0.4976 2.2281,0.79235 3.52757,0.79235 3.64168,0 6.59242,-2.26931 6.59242,-5.07109 z m 3.8667,6.97275 c 0.7575,-0.82405 1.20438,-1.82876 1.20438,-2.91588 0,-2.12034 -1.69564,-3.93644 -4.09807,-4.69393 0.0286,0.20919 0.0412,0.42154 0.0412,0.63706 0,3.35642 -3.41348,6.08531 -7.60664,6.08531 -0.34229,0 -0.67509,-0.0253 -1.00471,-0.0602 0.99837,1.82243 3.34375,3.10288 6.07581,3.10288 1.29945,0 2.50702,-0.29159 3.52757,-0.79236 0.69094,0.40252 1.65128,0.79236 2.81129,0.79236 0.10141,0 0.19333,-0.0602 0.23137,-0.15214 0.0412,-0.0919 0.0222,-0.19967 -0.0476,-0.27574 -0.009,-0.009 -0.70995,-0.767 -1.13465,-1.72733 z"
@@ -433,7 +433,7 @@
            x="81.683594"
            y="20.426951"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;text-anchor:start">Join the Telegram group: </tspan><tspan
-             style="fill:#306998;fill-opacity:1">tel.pythonpune.in</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';fill:#306998;fill-opacity:1">tel.pythonpune.in</tspan></tspan></text>
       <path
          fill="currentColor"
          d="m 663.72542,167.32937 c -4.601,0 -8.32881,3.72781 -8.32881,8.32881 0,4.60099 3.72781,8.32881 8.32881,8.32881 4.60099,0 8.32881,-3.72782 8.32881,-8.32881 0,-4.601 -3.72782,-8.32881 -8.32881,-8.32881 z m 4.09052,5.70591 -1.36687,6.44139 c -0.10075,0.45674 -0.37278,0.56757 -0.75228,0.35263 l -2.0822,-1.53479 -1.00416,0.96722 c -0.11082,0.11083 -0.20486,0.20486 -0.4198,0.20486 l 0.14777,-2.11914 3.8588,-3.48601 c 0.16791,-0.14777 -0.037,-0.23173 -0.2586,-0.084 l -4.76892,3.0024 -2.05533,-0.64145 c -0.44667,-0.14105 -0.45674,-0.44667 0.094,-0.66161 l 8.02991,-3.09643 c 0.37279,-0.13434 0.69855,0.0907 0.57765,0.65489 z"
@@ -460,7 +460,8 @@
 </tspan></tspan><tspan
              x="81.683594"
              y="42.157665"><tspan
-               style="fill:#306998;fill-opacity:1">          pythonpune.in</tspan></tspan></text>
+               style="fill:#306998;fill-opacity:1">          </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif'">pythonpune.in</tspan></tspan></text>
         <path
            fill="currentColor"
            d="m 676.73161,89.718094 h -9.72772 c -0.89047,0 -1.61229,0.721818 -1.61229,1.612288 v 9.727728 c 0,0.89047 0.72182,1.61229 1.61229,1.61229 h 9.72772 c 0.89047,0 1.61229,-0.72182 1.61229,-1.61229 v -9.727728 c 0,-0.89047 -0.72182,-1.612288 -1.61229,-1.612288 z m 6.38845,1.271621 -3.69681,2.549983 v 5.309093 l 3.69681,2.546609 c 0.71507,0.49245 1.69998,-0.01 1.69998,-0.87023 v -8.665227 c 0,-0.85674 -0.98154,-1.362685 -1.69998,-0.870228 z"
@@ -488,7 +489,7 @@
              x="81.683594"
              y="20.426951"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;text-anchor:start">Submit a talk:  </tspan><tspan
-               style="fill:#306998;fill-opacity:1">cfp.pythonpune.in</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';fill:#306998;fill-opacity:1">cfp.pythonpune.in</tspan><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif';text-align:start;text-anchor:start">
 </tspan></tspan></text>
         <path
